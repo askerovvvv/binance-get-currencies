@@ -1,0 +1,7 @@
+
+b
+java:S2259"FA "NullPointerException" could be thrown; "response" is nullable here.(éÀ38§¾éÑ¦1
+{
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ôà™Ğ¦1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¥ òT8—¹Ğ¦1
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ş¾†¼ûÿÿÿÿ8çõŸĞ¦1

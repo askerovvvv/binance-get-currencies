@@ -1,0 +1,10 @@
+
+U
+java:S1854"8Remove this useless assignment to local variable "list".(´íÙ8ªğÑ¦1
+]	java:S125
+"<This block of commented-out lines of code should be removed.(Á¹³Üÿÿÿÿÿ8 ªğÑ¦1
+L
+java:S2440"*Remove this instantiation of "HttpClient".(—½›şÿÿÿÿ8 ªğÑ¦1
+F
+java:S1481")Remove this unused "list" local variable.(´íÙ8¡ªğÑ¦1
+X	java:S125"<This block of commented-out lines of code should be removed.(ûÔß’8¡ªğÑ¦1

@@ -1,0 +1,10 @@
+
+W
+java:S1612":Replace this lambda with method reference 'session::save'.(ï±ú°8áõ¦Ñ¦1
+I
+java:S1874",Remove this use of "save"; it is deprecated.(ï±ú°8áõ¦Ñ¦1
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(˜È–åþÿÿÿÿ8âõ¦Ñ¦1
+c
+java:S2118+"FMake the "org.example.Binance" class "Serializable" or don't write it.(Î€ ô8ñ‡½Ñ¦1
+U	java:S106."9Replace this use of System.out or System.err by a logger.(»½ëç8ñ‡½Ñ¦1
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(Î­”Y8ò‡½Ñ¦1
